@@ -13,7 +13,4 @@
 - **Frontend**: Flutter for cross-platform app development.
 - **AI Recommendations**: Machine learning algorithms for doctor suggestions.
 
-## Installation Guide
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/humacare.git
+
